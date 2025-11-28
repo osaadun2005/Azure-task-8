@@ -82,7 +82,11 @@ Security Configuration , Backup, Disaster Recovery, And Expected Outcome.
     <img width="974" height="416" alt="image" src="https://github.com/user-attachments/assets/782abe42-1ee8-4aa7-846c-ac0d06d14a93" />
 
 
-     <img width="975" height="590" alt="image" src="https://github.com/user-attachments/assets/a841319a-03c8-4ecb-adc2-1efe4f165d0b" />
+    <img width="943" height="407" alt="image" src="https://github.com/user-attachments/assets/93aa2d39-f6f1-40ad-bebf-94c62ebbe585" />
+
+
+    <img width="952" height="470" alt="image" src="https://github.com/user-attachments/assets/b7adb321-feb1-4b17-9295-3bc226d5cd1f" />
+
 
 
 
